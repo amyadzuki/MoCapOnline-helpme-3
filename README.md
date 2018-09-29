@@ -75,4 +75,4 @@
     + [x] Remap referenced assets
     + [ ] Allow remapping to existing assets
   - I click the `Retarget` button.
-  - The result looks severly deformed, see the screenshot, `(placeholder for screenshot path)`.
+  - The result looks severly deformed, see the screenshot, `(/Screenshots/1.png)`.
