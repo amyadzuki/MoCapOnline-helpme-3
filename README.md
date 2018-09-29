@@ -24,8 +24,30 @@
   - At this point, `Content` is completely empty.
   - Using the File Explorer app, I copy `C:\Users\UE4\Assets\UE4_Mobility127_Basic\Content\Mobility_01\Animation` into `C:\Users\UE4\Projects\AmyMoCapOnlineHelp3\Content`
     + `Aim_Offsets` is `C:\Users\UE4\Projects\AmyMoCapOnlineHelp3\Content\Animation\Aim_Offsets`
-
-
+  - Using the UE4 Content Browser, I create a new folder in `Content` called `Textures`.
+  - I browse to the new `Textures` folder in the UE4 Content Browser and drag in the entire contents of `textures` (included in this repo as /Models/exports/textures).
+    + I get a notification popup, "Texture female_casualsuit01_normal was imported as a normal map"
+  - Using the UE4 Content Browser, I go back up a directory to `Content` and create a new folder called `Characters`.
+  - I browse to the new `Characters` folder in the UE4 Content Browser and drag in the entire contents of `exports` (included in this repo as /Models/exports), **excluding `textures`** since I already imported them.
+    + Mesh:
+      * [x] Skeletal Mesh
+      * [x] Import Mesh
+      * Skeleton: None
+    + Animation:
+      * [ ] Import Animations
+    + Transform:
+      * Import Translation: 0.0, 0.0, 0.0
+      * Import Rotation: 0.0, 0.0, 0.0
+      * Import Uniform Scale: 1.0
+    + Miscellaneous:
+      * [x] Convert Scene
+      * [ ] Force Front XAxis
+      * [ ] Convert Scene Unit
+    + Material:
+      * Base Material Name: None
+      * [ ] Import Materials
+      * [ ] Import Textures
+    + Import All
 
 
 
