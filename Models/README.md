@@ -1,4 +1,4 @@
-There are 2 models included here for testing.  They were created in (makehuman-1.1.1-win32)[http://download.tuxfamily.org/makehuman/releases/1.1.1/makehuman-1.1.1-win32.zip].
+There are 2 models included here for testing.  They were created in [makehuman-1.1.1-win32](http://download.tuxfamily.org/makehuman/releases/1.1.1/makehuman-1.1.1-win32.zip).
 
 Each model is saved as `{{Name}}.mhm` and exported 8 times as `{{Name}}-{{Units}}-{{Rig}}.fbx` with the following export options:
 
