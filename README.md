@@ -61,3 +61,18 @@
 
 ---
 
+  - I open `/Content/Characters/Male25-cm-generic_Skeleton` in the UE4 Content Browser
+  - Retarget Manager
+  - Select Rig: Select Humanoid Rig
+  - Save
+  
+  - I open `/Content/Animation/IPC/MOB1_Stand_Relaxed_Idle_v2_IPC` in the UE4 Content Browser and get this message:
+    + `Could not find the skeleton for Anim 'MOB1_Stand_Relaxed_Idle_v2_IPC'  Would you like to choose a new one?`
+    + I answer `Yes`
+  - The Select Skeleton dialog pops up, and I click `Male25-cm-generic_Skeleton` in the left pane.
+    + Both `[Source]` and `[Target]` previews appear blank.
+  - I leave the Retarget Options on their default settings:
+    + [x] Remap referenced assets
+    + [ ] Allow remapping to existing assets
+  - I click the `Retarget` button.
+  - The result looks severly deformed, see the screenshot, `(placeholder for screenshot path)`.
