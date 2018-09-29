@@ -51,8 +51,13 @@
   - I ignore the one warning I get:
     + `No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing.`
     + [Docs](https://docs.unrealengine.com/en-us/Shared/Editor/FbxErrors?utm_source=editor&utm_medium=docs&utm_campaign=msg_log)
+  - **Save All**
+  - **Edit -> Editor Preferences -> General -> Loading & Saving -> Auto Save ->**
+    + [ ] **Enable AutoSave**
+    + **I disable AutoSave so I can revert to this point in time as I try things!**
+  - **Save Current**
+    + Path: `/Game`
+    + Filename: `NewMap`
 
-
-
-
+---
 
