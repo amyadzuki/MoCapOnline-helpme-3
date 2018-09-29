@@ -63,8 +63,8 @@
 
   - I open `/Content/Characters/Male25-cm-generic_Skeleton` in the UE4 Content Browser
   - Retarget Manager
-  - Select Rig: Select Humanoid Rig
-  - Save
+    + Select Rig: Select Humanoid Rig
+    + Save
   
   - I open `/Content/Animation/IPC/MOB1_Stand_Relaxed_Idle_v2_IPC` in the UE4 Content Browser and get this message:
     + `Could not find the skeleton for Anim 'MOB1_Stand_Relaxed_Idle_v2_IPC'  Would you like to choose a new one?`
