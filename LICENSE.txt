@@ -1,0 +1,1 @@
+This repo is in the public domain.  Anyone coming across it is free to follow along.  All attachments in this repo are CC0 or otherwise released into the public domain.  Specifically, the makehuman models uploaded here were created for this repo, and are not the ones that will be used in my company's proprietary game.
